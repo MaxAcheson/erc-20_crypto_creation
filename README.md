@@ -29,7 +29,7 @@ To view the resulting images from sucessful contract deployment as well as vario
 ![Deploy 2](https://github.com/MaxAcheson/module_21_challenge/blob/main/Evaluation%20Evidence/Image%204%20Deployment.png)
 
 5. Successful Purchase of KaseiCoin
-![Purchase](https://github.com/MaxAcheson/module_21_challenge/blob/main/Evaluation%20Evidence/Image%205%20Purchase.png)
+![Purchase](https://github.com/MaxAcheson/module_21_challenge/blob/main/Evaluation%20Evidence/Image%205%20Purchase%20Success.png)
 
 6. Remaining Balance after Transaction
 ![Balance](https://github.com/MaxAcheson/module_21_challenge/blob/main/Evaluation%20Evidence/Image%206%20Balance.png)
