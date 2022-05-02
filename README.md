@@ -22,6 +22,18 @@ To view the resulting images from sucessful contract deployment as well as vario
 2. Successful Compilation of Crowdsale Contract
 ![Compiler 2](https://github.com/MaxAcheson/module_21_challenge/blob/main/Evaluation%20Evidence/Image%202%20Compiler.png)
 
+3. Successful Deployment of Token Contract
+![Deploy 1](https://github.com/MaxAcheson/module_21_challenge/blob/main/Evaluation%20Evidence/Image%203%20Deployment.png)
+
+4. Successful Deployment of Crowdsale Contract
+![Deploy 2](https://github.com/MaxAcheson/module_21_challenge/blob/main/Evaluation%20Evidence/Image%204%20Deployment.png)
+
+5. Successful Purchase of KaseiCoin
+![Purchase](https://github.com/MaxAcheson/module_21_challenge/blob/main/Evaluation%20Evidence/Image%205%20Purchase.png)
+
+6. Remaining Balance after Transaction
+![Balance](https://github.com/MaxAcheson/module_21_challenge/blob/main/Evaluation%20Evidence/Image%206%20Balance.png)
+
 ## Contributors
 
 Max Acheson
