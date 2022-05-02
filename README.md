@@ -14,7 +14,7 @@ This project utilizes `pragma solidity ^0.5.0` and has been constructed on Ether
 
 ## Contract and Token Sale Functionality
 
-To view the resulting images from sucessful contract deployment as well as various interactions, please head over to the `Execution_Results` folder found [here](https://github.com/MaxAcheson/module_21_challenge/tree/main/Evaluation%20Evidence).
+To view the resulting images from sucessful contract deployment as well as various interactions, please head over to the `Evaluation Evidence` folder found [here](https://github.com/MaxAcheson/module_21_challenge/tree/main/Evaluation%20Evidence).
 
 1. Successful Compilation of Token Contract
 ![Compiler 1](https://github.com/MaxAcheson/module_21_challenge/blob/main/Evaluation%20Evidence/Image%201%20Compiler.png)
